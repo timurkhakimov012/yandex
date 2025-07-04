@@ -185,7 +185,7 @@ html {
   width: 6.75rem;
   height: 2.3125rem;
   margin-right: 3.25rem;
-  background: url(/yandex/assets/logo.fbf3825fdaeb5d79fbbe.svg) 50% 50%/contain no-repeat
+  background: url(assets/logo.fbf3825fdaeb5d79fbbe.svg) 50% 50%/contain no-repeat
 }
 
 .header__menu {
@@ -194,7 +194,7 @@ html {
   height: 100%;
   margin: 0 0 0 auto;
   padding: 0;
-  background: url(/yandex/assets/icon_list_m@1x.2c481f94300218fcebd0.svg) 50% 50% no-repeat;
+  background: url(assets/icon_list_m@1x.2c481f94300218fcebd0.svg) 50% 50% no-repeat;
   border: none;
   border-radius: 0;
   appearance: none;
@@ -309,7 +309,7 @@ html {
   border: none;
   border-radius: 1.25rem;
   font-family: inherit;
-  background: url(/yandex/assets/arrow-down.d655218a2b02d5911247.svg) calc(100% - 1rem) 50% no-repeat #ffd93e;
+  background: url(assets/arrow-down.d655218a2b02d5911247.svg) calc(100% - 1rem) 50% no-repeat #ffd93e;
   appearance: none
 }
 
@@ -344,7 +344,7 @@ html {
   box-sizing: border-box;
   gap: .9375rem;
   height: 20.6875rem;
-  background: url(/yandex/assets/bg2x.766bcbb82709b138deef.webp) 50% 50%/1260px no-repeat
+  background: url(assets/bg2x.766bcbb82709b138deef.webp) 50% 50%/1260px no-repeat
 }
 
 .hero-dashboard__primary {
@@ -397,7 +397,7 @@ html {
 }
 
 .hero-dashboard__icon_rain {
-  background-image: url(/yandex/assets/cloud-drizzle.96d177798e471cc2c056.svg)
+  background-image: url(assets/cloud-drizzle.96d177798e471cc2c056.svg)
 }
 
 .hero-dashboard__schedule {
@@ -454,23 +454,23 @@ html {
 }
 
 .event__icon_temp {
-  background-image: url(/yandex/assets/icon_temperature.0d19e216b2d5b7971f85.svg)
+  background-image: url(assets/icon_temperature.0d19e216b2d5b7971f85.svg)
 }
 
 .event__icon_temp2 {
-  background-image: url(/yandex/assets/icon_temperature_2.b61801258e48a97351d6.svg)
+  background-image: url(assets/icon_temperature_2.b61801258e48a97351d6.svg)
 }
 
 .event__icon_light {
-  background-image: url(/yandex/assets/icon_sun.ab45bd1abea4a81765bb.svg)
+  background-image: url(assets/icon_sun.ab45bd1abea4a81765bb.svg)
 }
 
 .event__icon_light2 {
-  background-image: url(/yandex/assets/icon_sun_2.f1c80687f8b99c25c4c9.svg)
+  background-image: url(assets/icon_sun_2.f1c80687f8b99c25c4c9.svg)
 }
 
 .event__icon_schedule {
-  background-image: url(/yandex/assets/icon_scheduled.71bbb008775a1c81db81.svg)
+  background-image: url(assets/icon_scheduled.71bbb008775a1c81db81.svg)
 }
 
 .event__title {
@@ -524,7 +524,7 @@ html {
   right: 0;
   width: 18px;
   bottom: 10px;
-  background: url(/yandex/assets/arrow-left.a5506fa04db381094512.png) 50% 50% no-repeat;
+  background: url(assets/arrow-left.a5506fa04db381094512.png) 50% 50% no-repeat;
   transform: rotate(180deg);
   cursor: pointer
 }
@@ -687,4 +687,4 @@ html {
   }
 }
 
-/*# sourceMappingURL=main.6c0115d4b3853d752aa8.css.map*/
+/*# sourceMappingURL=main.6d824714f11128c209c4.css.map*/
