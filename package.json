@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {},
-  "homepage": "https://github.com/timurkhakimov012/dz_Yandex",
+  "homepage": "https://timurkhakimov012.github.io/yandex",
   "scripts": {
     "start": "webpack serve --mode development --open",
     "build": "webpack --mode production",

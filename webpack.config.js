@@ -9,7 +9,7 @@ module.exports = {
     filename: "[name].[contenthash].js",
     path: path.resolve(__dirname, "dist"),
     clean: true,
-    publicPath: "/dz_Yandex/"
+    publicPath: "/yandex/"
   },
   resolve: {
     extensions: [".js", ".jsx"],
